@@ -35,8 +35,11 @@ If you are developing a production application, we recommend using TypeScript wi
 •	React Router
 
 #Screenshots
-1.Login Page
-![Login Page](https://github.com/Mallikarjuntalawar/Food-Delivery-Project/blob/main/Screenshot%202026-02-28%20185524.png?raw=true)
+1.Sign in Page
+![Sign in Page](https://github.com/Mallikarjuntalawar/Food-Delivery-Project/blob/main/Screenshot%202026-02-28%20185524.png?raw=true)
 
-2.Registration Page
-![Registration Page]()
+2.Sign Up Page
+![Sign Up Page](https://github.com/Mallikarjuntalawar/Food-Delivery-Project/blob/main/Screenshot%202026-02-28%20185556.png?raw=true)
+
+3.Home Page
+![Home page]()
