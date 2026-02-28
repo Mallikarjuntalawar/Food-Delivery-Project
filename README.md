@@ -49,3 +49,6 @@ If you are developing a production application, we recommend using TypeScript wi
 
 5.Cart Page
 ![Cart Page](https://github.com/Mallikarjuntalawar/Food-Delivery-Project/blob/main/Screenshot%202026-02-28%20185918.png?raw=true)
+
+6.Checkout Page
+![Checkout](https://github.com/Mallikarjuntalawar/Food-Delivery-Project/blob/main/Screenshot%202026-02-28%20185955.png?raw=true)
