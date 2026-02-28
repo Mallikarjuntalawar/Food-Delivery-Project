@@ -58,8 +58,12 @@ If you are developing a production application, we recommend using TypeScript wi
 ![Checkout](https://github.com/Mallikarjuntalawar/Food-Delivery-Project/blob/main/Screenshot%202026-02-28%20185955.png?raw=true)
 
 ##Clone Repository
-git clone <repo-url>
+
+git clone <https://github.com/Mallikarjuntalawar/Food-Delivery-Project>
+
 cd food-delivery-frontend
+
 npm install
+
 npm run dev
 
