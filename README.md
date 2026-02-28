@@ -26,7 +26,7 @@ If you are developing a production application, we recommend using TypeScript wi
 •	Checkout Page with Stripe Integration
 •	Order Confirmation Screen
 
-#Tech Stack
+🛠Tech Stack
 •	React
 •	Vite
 •	JavaScript (ES6+)
