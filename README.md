@@ -36,4 +36,7 @@ If you are developing a production application, we recommend using TypeScript wi
 
 #Screenshots
 1.Login Page
-![Login Page]()
+![Login Page](https://github.com/Mallikarjuntalawar/Food-Delivery-Project/blob/main/Screenshot%202026-02-28%20185524.png?raw=true)
+
+2.Registration Page
+![Registration Page]()
