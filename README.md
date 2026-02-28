@@ -13,11 +13,13 @@ If you are developing a production application, we recommend using TypeScript wi
 
 
 #About
+
 •	This is the frontend UI of a food delivery platform
 •	Built with React and Vite
 •	Handles user interactions, cart state, authentication UI, and checkout flow
 
 👤Features
+
 •	User Registration & Login UI
 •	Browse Restaurants
 •	View Menu Items
@@ -27,6 +29,7 @@ If you are developing a production application, we recommend using TypeScript wi
 •	Order Confirmation Screen
 
 🛠Tech Stack
+
 •	React
 •	Vite
 •	JavaScript (ES6+)
@@ -34,7 +37,8 @@ If you are developing a production application, we recommend using TypeScript wi
 •	CSS
 •	React Router
 
-#Screenshots
+📷Screenshots
+
 1.Sign in Page
 ![Sign in Page](https://github.com/Mallikarjuntalawar/Food-Delivery-Project/blob/main/Screenshot%202026-02-28%20185524.png?raw=true)
 
