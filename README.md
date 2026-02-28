@@ -45,4 +45,7 @@ If you are developing a production application, we recommend using TypeScript wi
 ![Home page](https://github.com/Mallikarjuntalawar/Food-Delivery-Project/blob/main/Screenshot%202026-02-28%20185347.png?raw=true)
 
 4.Menu Page
-![Menu page]()
+![Menu page](https://github.com/Mallikarjuntalawar/Food-Delivery-Project/blob/main/Screenshot%202026-02-28%20185445.png?raw=true)
+
+5.Cart Page
+![Cart Page]()
