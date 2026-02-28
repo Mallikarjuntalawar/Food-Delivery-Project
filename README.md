@@ -10,3 +10,30 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
+#About
+•	This is the frontend UI of a food delivery platform
+•	Built with React and Vite
+•	Handles user interactions, cart state, authentication UI, and checkout flow
+
+👤Features
+•	User Registration & Login UI
+•	Browse Restaurants
+•	View Menu Items
+•	Add to Cart / Remove from Cart
+•	Dynamic Cart Updates
+•	Checkout Page with Stripe Integration
+•	Order Confirmation Screen
+
+#Tech Stack
+•	React
+•	Vite
+•	JavaScript (ES6+)
+•	HTML
+•	CSS
+•	React Router
+
+#Screenshots
+1.Login Page
+![Login Page]()
